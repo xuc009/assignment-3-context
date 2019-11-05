@@ -52,7 +52,7 @@ function getCurrentMinutes() {
 
 	// }
 
-	getImageUrl(0)
+	// getImageUrl(0)
 
 	console.log(imgArray);
 	console.log(infoArray);
